@@ -132,3 +132,9 @@ npx shadcn@latest add select
 ```shell
 npx shadcn@latest add textarea
 ```
+
+7. Add card
+
+```shell
+npx shadcn@latest add card
+```
