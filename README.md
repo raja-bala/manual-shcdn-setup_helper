@@ -169,3 +169,9 @@ npx shadcn@latest add menubar
 ```shell
 npx shadcn@latest add pagination
 ```
+
+12. Add sidebar-08
+
+```shell
+npx shadcn@latest add sidebar-08
+```
