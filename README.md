@@ -105,3 +105,11 @@ npx shadcn@latest add checkbox
 ```shell
 npx shadcn@latest add form
 ```
+
+4. Add date picker
+   The Date Picker is built using a composition of the <Popover /> and the <Calendar /> components.
+
+```shell
+npx shadcn@latest add popover
+npx shadcn@latest add calendar
+```
