@@ -120,3 +120,9 @@ npx shadcn@latest add calendar
 ```shell
 npx shadcn@latest add radio-group
 ```
+
+5. Add select
+
+```shell
+npx shadcn@latest add radio-group
+```
