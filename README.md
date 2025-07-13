@@ -157,3 +157,9 @@ npm install @tanstack/react-table
 ```shell
 npx shadcn@latest add command
 ```
+
+10. Add Menubar
+
+```shell
+npx shadcn@latest add menubar
+```
