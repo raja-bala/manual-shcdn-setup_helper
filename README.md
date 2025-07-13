@@ -172,6 +172,25 @@ npx shadcn@latest add pagination
 
 12. Add sidebar-08
 
+comment everything from `App.css` including #root design
+
 ```shell
 npx shadcn@latest add sidebar-08
+
+```
+
+had this error
+[bug]: The requested module 'class-variance-authority' does not provide an export named 'VariantProps'
+[fix from this link](https://github.com/shadcn-ui/ui/issues/6618)
+**Fix**
+The fix was to go into components/ui/sidebar.tsx and change the import from:
+
+```tsx
+import { VariantProps, cva } from "class-variance-authority";
+```
+
+To
+
+```tsx
+import { type VariantProps, cva } from "class-variance-authority";
 ```
