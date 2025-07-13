@@ -108,6 +108,7 @@ npx shadcn@latest add form
 
 4. Add date picker
    The Date Picker is built using a composition of the <Popover /> and the <Calendar /> components.
+   To customsize Calender component we need **React Daypicker**, Calendar component is built on top of **React Daypicker**
 
 ```shell
 npx shadcn@latest add popover
