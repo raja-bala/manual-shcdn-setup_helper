@@ -93,3 +93,9 @@ npx shadcn init
 ```shell
 npx shadcn@latest add sidebar
 ```
+
+2. Add check box
+
+```shell
+npx shadcn@latest add checkbox
+```
