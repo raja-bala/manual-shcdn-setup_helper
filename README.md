@@ -150,3 +150,10 @@ Add tanstack/react-table dependency:
 ```shell
 npm install @tanstack/react-table
 ```
+
+9. Add combobox
+   The Combobox is built using a composition of the <Popover /> and the <Command /> components.
+
+```shell
+npx shadcn@latest add command
+```
