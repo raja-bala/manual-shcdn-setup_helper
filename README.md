@@ -85,3 +85,11 @@ export default defineConfig({
 ```shell
 npx shadcn init
 ```
+
+### Components
+
+1. Add side bar
+
+```shell
+npx shadcn@latest add sidebar
+```
