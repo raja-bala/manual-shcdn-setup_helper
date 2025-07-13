@@ -124,5 +124,5 @@ npx shadcn@latest add radio-group
 5. Add select
 
 ```shell
-npx shadcn@latest add radio-group
+npx shadcn@latest add select
 ```
