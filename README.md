@@ -99,3 +99,9 @@ npx shadcn@latest add sidebar
 ```shell
 npx shadcn@latest add checkbox
 ```
+
+3. Add form
+
+```shell
+npx shadcn@latest add form
+```
