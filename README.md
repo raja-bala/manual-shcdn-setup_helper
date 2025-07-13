@@ -121,8 +121,14 @@ npx shadcn@latest add calendar
 npx shadcn@latest add radio-group
 ```
 
-5. Add select
+6. Add select
 
 ```shell
 npx shadcn@latest add select
+```
+
+6. Add Textarea
+
+```shell
+npx shadcn@latest add textarea
 ```
