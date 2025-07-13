@@ -138,3 +138,15 @@ npx shadcn@latest add textarea
 ```shell
 npx shadcn@latest add card
 ```
+
+8. Add DataTable
+
+```shell
+npx shadcn@latest add table
+```
+
+Add tanstack/react-table dependency:
+
+```shell
+npm install @tanstack/react-table
+```
