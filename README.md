@@ -114,3 +114,9 @@ npx shadcn@latest add form
 npx shadcn@latest add popover
 npx shadcn@latest add calendar
 ```
+
+5. Add radio group
+
+```shell
+npx shadcn@latest add radio-group
+```
